@@ -1,12 +1,12 @@
 body{
     font-family: 'Courier New', Courier, monospace;
-    color:rgb(40, 102, 102);
+    color:black
     font-size: 20px;
-    background-color: peachpuff;
+    background-color: white;
     font-weight: bold;
 }
 h1{
-    color:palevioletred;
+    color:black;
     text-align: center;
     max-width: 1000px;
 
@@ -22,6 +22,6 @@ img{
     size-adjust: 500px;
 }
 hr{
-    color:palevioletred;
+    color:black;
     font-size: medium;
 }
